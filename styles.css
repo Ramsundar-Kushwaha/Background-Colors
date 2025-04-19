@@ -11,7 +11,7 @@ main{
 }
 .cardContainer{
   display: flex;
-  width: 85%;
+  width: 95%;
   height: auto;
   background-color: whitesmoke;
   margin: 20px auto;
